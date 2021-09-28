@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.blitzen
+testFramework: spock
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, aws-lambda, aws-v2-sdk, gradle, http-client, http-session, kotlin, kotlin-application, logback, readme, shade, spock, yaml]
